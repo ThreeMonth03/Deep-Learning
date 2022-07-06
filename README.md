@@ -1,4 +1,5 @@
-# Introduction
+# DLP
+## Introduction
 There are total 7 labs in NYCU DLP.
 
 Everyone fulfilling all of the labs can realize the principle of basic deep-learning knowledge.
