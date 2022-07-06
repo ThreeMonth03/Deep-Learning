@@ -1,11 +1,11 @@
 # Deep Learning
 ## Introduction
 
-These codes is originated from the class in National Yang Ming Chiao Tung university, and the class is called as deep learning and practice(DLP).
+These codes is originated from the class in National Yang Ming Chiao Tung university, and the class is called as deep learning and practice (DLP).
 
 There are total 7 labs in DLP.
 
-Everyone fulfilling all of the labs can realize the principle of basic deep-learning knowledge.
+Everyone fulfilling all of these labs can realize the principle of basic deep-learning knowledge.
 
 Of course, it is a beginner-friendly coding class. 
 
